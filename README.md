@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Sasikumar
 
-<!--
-**seerasasikumar/seerasasikumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I am passionate about transforming raw data into meaningful insights through analytics and visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- Microsoft Excel
+- SQL
+- Power BI
+- Python
+- Data Cleaning
+- Data Visualization
+- Exploratory Data Analysis
+
+### 🚀 Currently Learning
+- Advanced SQL
+- Power BI Dashboard Development
+- Python for Data Analysis
+
+### 📂 Featured Projects
+- 📈 Sales Performance Analysis
+- 👥 HR Analytics Dashboard
+- 🎬 Netflix Data Analysis
+- 🛒 Retail Sales Dashboard
+- 📊 Customer Churn Analysis
+
+### 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/seerasasikumar
+- GitHub: https://github.com/seerasasikumar
+
+⭐ Thanks for visiting my profile!
