@@ -1,32 +1,68 @@
-# Hi 👋, I'm Sasikumar
+<h1 align="center">Hi 👋, I'm Sasi Kumar</h1>
 
-## 📊 Aspiring Data Analyst
+<h3 align="center">📊 Aspiring Data Analyst</h3>
 
-I am passionate about transforming raw data into meaningful insights through analytics and visualization.
+<p align="center">
+Turning raw data into meaningful business insights using Excel, SQL, Power BI and Python.
+</p>
 
-### 🛠️ Skills
-- Microsoft Excel
-- SQL
-- Power BI
-- Python
-- Data Cleaning
-- Data Visualization
-- Exploratory Data Analysis
+---
 
-### 🚀 Currently Learning
-- Advanced SQL
-- Power BI Dashboard Development
-- Python for Data Analysis
+## 🚀 About Me
 
-### 📂 Featured Projects
+- 🎓 Aspiring Data Analyst
+- 📈 Building real-world Data Analytics projects
+- 💡 Passionate about Business Intelligence
+- 🌱 Currently learning Advanced SQL, Power BI & Python
+- 🎯 Goal: Become a Data Analyst
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+
+</p>
+
+### Data Analytics Tools
+
+- 📊 Microsoft Excel
+- 🗄 SQL
+- 📈 Power BI
+- 🐍 Python
+- 📉 Pandas
+- 🔢 NumPy
+- 📊 Matplotlib
+
+---
+
+## 📂 Featured Projects
+
 - 📈 Sales Performance Analysis
 - 👥 HR Analytics Dashboard
-- 🎬 Netflix Data Analysis
 - 🛒 Retail Sales Dashboard
 - 📊 Customer Churn Analysis
+- 🎬 Netflix Data Analysis
 
-### 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/seerasasikumar
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=seerasasikumar&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=seerasasikumar&layout=compact&theme=tokyonight&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=seerasasikumar&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/seerasasikumar
 - GitHub: https://github.com/seerasasikumar
 
-⭐ Thanks for visiting my profile!
+---
+
+⭐ Thanks for visiting my profile.
