@@ -1,13 +1,5 @@
 <p align="center">
-  <img src="file_0000000081488207be7eda59c8f46792.png" alt="Banner" width="100%">
-</p>
-
-<h1 align="center">Hi 👋, I'm Sasikumar</h1>
-
-<h3 align="center">📊 Aspiring Data Analyst</h3>
-
-<p align="center">
-Turning raw data into meaningful business insights using Excel, SQL, Power BI and Python.
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Sasikumar;Aspiring+Data+Analyst;Excel+%7C+SQL+%7C+Power+BI+%7C+Python;Turning+Data+into+Business+Insights" />
 </p>
 
 ---
