@@ -61,7 +61,6 @@ Turning raw data into meaningful business insights using Excel, SQL, Power BI an
 ## 📫 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/seerasasikumar
-- GitHub: https://github.com/seerasasikumar
 
 ---
 
