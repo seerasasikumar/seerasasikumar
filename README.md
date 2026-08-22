@@ -59,7 +59,7 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=seerasasikumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=seerasasikumar&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=seerasasikumar&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
@@ -70,10 +70,9 @@
 
 ### 📈 Contribution Graph
 
-<!-- Replace USERNAME below with your GitHub username for the activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=seerasasikumar&theme=tokyo-night&hide_border=true" width="90%"/>
 
-<!-- Contribution Snake — requires GitHub Action setup (see footer note) -->
+<!-- Contribution Snake -->
 <img src="https://raw.githubusercontent.com/seerasasikumar/seerasasikumar/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 </div>
@@ -88,6 +87,7 @@
 <td width="33%" valign="top">
 
 ### 📌 Sales Performance Dashboard
+
 Interactive dashboard analyzing regional sales trends, top products, and revenue growth to support data-driven business decisions.
 
 **Tech:** `Power BI` `SQL` `Excel`
@@ -99,6 +99,7 @@ Interactive dashboard analyzing regional sales trends, top products, and revenue
 <td width="33%" valign="top">
 
 ### 📌 Customer Churn Analysis
+
 Exploratory data analysis and visualization project identifying key factors driving customer churn using Python and statistical insights.
 
 **Tech:** `Python` `Pandas` `Matplotlib`
@@ -110,6 +111,7 @@ Exploratory data analysis and visualization project identifying key factors driv
 <td width="33%" valign="top">
 
 ### 📌 SQL Data Cleaning & Reporting
+
 End-to-end pipeline cleaning raw datasets in MySQL and generating summarized reports for business stakeholders.
 
 **Tech:** `MySQL` `SQL` `Excel`
@@ -161,7 +163,7 @@ End-to-end pipeline cleaning raw datasets in MySQL and generating summarized rep
 
 <div align="center">
 
-I'm actively looking for **Data Analyst** opportunities — let's talk data, dashboards, or just say hi!
+I'm actively looking for **Data Analyst** opportunities. Let's talk data, dashboards, or just say hi!
 
 <a href="https://linkedin.com/in/seerasasikumar">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
