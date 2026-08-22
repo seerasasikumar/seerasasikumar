@@ -58,19 +58,27 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=seerasasikumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://streak-stats.demolab.com?user=seerasasikumar&theme=tokyonight&hide_border=true" height="165"/>
-</div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seerasasikumar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seerasasikumar&theme=tokyonight" width="95%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seerasasikumar&theme=tokyonight" width="47%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seerasasikumar&theme=tokyonight" width="47%"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=seerasasikumar&theme=tokyonight&hide_border=true" width="95%"/>
+
 </div>
 
 <div align="center">
 
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=seerasasikumar&theme=tokyo-night&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=seerasasikumar&theme=tokyo-night&hide_border=true" width="95%"/>
+
+</div>
 
 <!-- Contribution Snake -->
 <img src="https://raw.githubusercontent.com/seerasasikumar/seerasasikumar/output/github-contribution-grid-snake-dark.svg" width="90%"/>
