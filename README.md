@@ -26,7 +26,6 @@
 
 <br/>
 
-<!-- ===================== ABOUT ME ===================== -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260">
@@ -41,7 +40,6 @@
 
 <br clear="right"/>
 
-<!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -58,7 +56,6 @@
 
 <br/>
 
-<!-- ===================== GITHUB ANALYTICS ===================== -->
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -78,7 +75,6 @@
 
 <br/>
 
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -89,7 +85,6 @@
 
 <br/>
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
 ## 🚀 Featured Projects
 
 <table>
@@ -100,10 +95,11 @@
 
 Analyzed EV charging station data to uncover usage trends, location insights, and key performance metrics through interactive visualizations.
 
-**Tech:** `Excel` `SQL` `Python` `Power BI`
+**Tech:** `Excel` `SQL` `Power BI`
 
-<a href="https://github.com/seerasasikumar"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://seerasasikumar.github.io/SeeraSasikumar-DataAnalyst-Portfolio"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/seerasasikumar">
+<img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -113,10 +109,11 @@ Analyzed EV charging station data to uncover usage trends, location insights, an
 
 Built a business-focused analytics project to monitor industrial asset performance, identify trends, and support data-driven maintenance decisions.
 
-**Tech:** `Excel` `SQL`
+**Tech:** `Excel` `SQL` `Power BI`
 
-<a href="https://github.com/seerasasikumar"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://seerasasikumar.github.io/SeeraSasikumar-DataAnalyst-Portfolio"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/seerasasikumar">
+<img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -126,25 +123,24 @@ Built a business-focused analytics project to monitor industrial asset performan
 
 Performed exploratory data analysis on the Netflix dataset to discover content trends, genre distribution, and release patterns.
 
-**Tech:** `Python` `Pandas` `Matplotlib` `Power BI`
+**Tech:** `Python` `Pandas` `Matplotlib`
 
-<a href="https://github.com/seerasasikumar"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://seerasasikumar.github.io/SeeraSasikumar-DataAnalyst-Portfolio"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/seerasasikumar">
+<img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-
 <a href="https://seerasasikumar.github.io/SeeraSasikumar-DataAnalyst-Portfolio">
 <img src="https://img.shields.io/badge/View_Full_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-
 </div>
+
 <br/>
 
-<!-- ===================== CURRENTLY LEARNING ===================== -->
 ## 🌱 Currently Learning
 
 <div align="center">
@@ -157,7 +153,6 @@ Performed exploratory data analysis on the Netflix dataset to discover content t
 
 <br/>
 
-<!-- ===================== ACHIEVEMENTS ===================== -->
 ## 🏆 Achievements & Badges
 
 <div align="center">
@@ -175,7 +170,6 @@ Performed exploratory data analysis on the Netflix dataset to discover content t
 
 <br/>
 
-<!-- ===================== CONTACT ===================== -->
 ## 📬 Let's Connect
 
 <div align="center">
@@ -202,11 +196,8 @@ I'm actively looking for **Data Analyst** opportunities. Let's talk data, dashbo
 
 <br/>
 
-<!-- ===================== FOOTER ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=120&section=footer"/>
 
 <div align="center">
-
 <sub>⭐ From <b>Seera Sasikumar</b> — Thanks for visiting my profile! Feel free to explore, connect, and reach out.</sub>
-
 </div>
