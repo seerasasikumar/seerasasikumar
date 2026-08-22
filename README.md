@@ -96,24 +96,11 @@
 <tr>
 <td width="33%" valign="top">
 
-### 📌 Sales Performance Dashboard
+### ⚡ EV Charging Station Analysis
 
-Interactive dashboard analyzing regional sales trends, top products, and revenue growth to support data-driven business decisions.
+Analyzed EV charging station data to uncover usage trends, location insights, and key performance metrics through interactive visualizations.
 
-**Tech:** `Power BI` `SQL` `Excel`
-
-<a href="https://github.com/seerasasikumar"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://seerasasikumar.github.io/SeeraSasikumar-DataAnalyst-Portfolio"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=flat-square&logo=vercel&logoColor=white"/></a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### 📌 Customer Churn Analysis
-
-Exploratory data analysis and visualization project identifying key factors driving customer churn using Python and statistical insights.
-
-**Tech:** `Python` `Pandas` `Matplotlib`
+**Tech:** `Excel` `SQL` `Python` `Power BI`
 
 <a href="https://github.com/seerasasikumar"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://seerasasikumar.github.io/SeeraSasikumar-DataAnalyst-Portfolio"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=flat-square&logo=vercel&logoColor=white"/></a>
@@ -122,11 +109,24 @@ Exploratory data analysis and visualization project identifying key factors driv
 
 <td width="33%" valign="top">
 
-### 📌 SQL Data Cleaning & Reporting
+### 🏭 Industrial Asset Analysis
 
-End-to-end pipeline cleaning raw datasets in MySQL and generating summarized reports for business stakeholders.
+Built a business-focused analytics project to monitor industrial asset performance, identify trends, and support data-driven maintenance decisions.
 
-**Tech:** `MySQL` `SQL` `Excel`
+**Tech:** `Excel` `SQL`
+
+<a href="https://github.com/seerasasikumar"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://seerasasikumar.github.io/SeeraSasikumar-DataAnalyst-Portfolio"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=flat-square&logo=vercel&logoColor=white"/></a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🎬 Netflix Data Analysis
+
+Performed exploratory data analysis on the Netflix dataset to discover content trends, genre distribution, and release patterns.
+
+**Tech:** `Python` `Pandas` `Matplotlib` `Power BI`
 
 <a href="https://github.com/seerasasikumar"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://seerasasikumar.github.io/SeeraSasikumar-DataAnalyst-Portfolio"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=flat-square&logo=vercel&logoColor=white"/></a>
@@ -142,7 +142,6 @@ End-to-end pipeline cleaning raw datasets in MySQL and generating summarized rep
 </a>
 
 </div>
-
 <br/>
 
 <!-- ===================== CURRENTLY LEARNING ===================== -->
