@@ -6,21 +6,21 @@
 <br/>
 
 <a href="https://linkedin.com/in/seerasasikumar">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://seerasasikumar.github.io/SeeraSasikumar-DataAnalyst-Portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="mailto:seerasasikumar@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/seerasasikumar">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+Fresher+%7C+Based+in+India;Turning+Raw+Data+Into+Actionable+Insights;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Excel;Open+to+Data+Analyst+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+Fresher+%7C+Based+in+India;Turning+Raw+Data+Into+Actionable+Insights;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Excel;Open+to+Data+Analyst+Opportunities" alt="Typing SVG"/>
 
 </div>
 
@@ -45,16 +45,20 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,mysql,git,github,vscode,jupyter&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=py,mysql,git,github,vscode,jupyter&theme=dark"/>
+
 <br/><br/>
+
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
 </div>
 
 <br/>
 
-<!-- ===================== GITHUB STATS ===================== -->
+<!-- ===================== GITHUB ANALYTICS ===================== -->
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -72,15 +76,14 @@
 
 </div>
 
+<br/>
+
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+## 📈 Contribution Graph
+
 <div align="center">
 
-### 📈 Contribution Graph
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=seerasasikumar&theme=tokyo-night&hide_border=true" width="95%"/>
-
-</div>
-<!-- Contribution Snake -->
-<img src="https://raw.githubusercontent.com/seerasasikumar/seerasasikumar/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 </div>
 
@@ -103,6 +106,7 @@ Interactive dashboard analyzing regional sales trends, top products, and revenue
 <a href="https://seerasasikumar.github.io/SeeraSasikumar-DataAnalyst-Portfolio"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=flat-square&logo=vercel&logoColor=white"/></a>
 
 </td>
+
 <td width="33%" valign="top">
 
 ### 📌 Customer Churn Analysis
@@ -115,6 +119,7 @@ Exploratory data analysis and visualization project identifying key factors driv
 <a href="https://seerasasikumar.github.io/SeeraSasikumar-DataAnalyst-Portfolio"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=flat-square&logo=vercel&logoColor=white"/></a>
 
 </td>
+
 <td width="33%" valign="top">
 
 ### 📌 SQL Data Cleaning & Reporting
@@ -131,9 +136,11 @@ End-to-end pipeline cleaning raw datasets in MySQL and generating summarized rep
 </table>
 
 <div align="center">
+
 <a href="https://seerasasikumar.github.io/SeeraSasikumar-DataAnalyst-Portfolio">
 <img src="https://img.shields.io/badge/View_Full_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+
 </div>
 
 <br/>
@@ -155,12 +162,16 @@ End-to-end pipeline cleaning raw datasets in MySQL and generating summarized rep
 ## 🏆 Achievements & Badges
 
 <div align="center">
+
 <img src="https://img.shields.io/badge/Fresher-Data_Analyst-6366F1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Open_to-Work-success?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Based_in-India-orange?style=for-the-badge"/>
+
 <br/>
+
 <img src="https://img.shields.io/github/followers/seerasasikumar?style=for-the-badge&color=6366F1&label=Followers"/>
 <img src="https://img.shields.io/github/stars/seerasasikumar?style=for-the-badge&color=6366F1&label=Stars"/>
+
 </div>
 
 <br/>
@@ -175,12 +186,15 @@ I'm actively looking for **Data Analyst** opportunities. Let's talk data, dashbo
 <a href="https://linkedin.com/in/seerasasikumar">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:seerasasikumar@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://seerasasikumar.github.io/SeeraSasikumar-DataAnalyst-Portfolio">
   <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+
 <a href="https://github.com/seerasasikumar">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -193,5 +207,7 @@ I'm actively looking for **Data Analyst** opportunities. Let's talk data, dashbo
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=120&section=footer"/>
 
 <div align="center">
+
 <sub>⭐ From <b>Seera Sasikumar</b> — Thanks for visiting my profile! Feel free to explore, connect, and reach out.</sub>
+
 </div>
