@@ -91,13 +91,13 @@
 <tr>
 <td width="33%" valign="top">
 
-### ⚡ EV Charging Station Analysis
+### ⚡ EV Charging Network Analytics
 
 Analyzed EV charging station data to uncover usage trends, location insights, and key performance metrics through interactive visualizations.
 
 **Tech:** `Excel` `SQL` `Power BI`
 
-<a href="https://github.com/seerasasikumar">
+<a href="https://github.com/seerasasikumar/EV-Charging-Network-Analytics">
 <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
@@ -105,13 +105,13 @@ Analyzed EV charging station data to uncover usage trends, location insights, an
 
 <td width="33%" valign="top">
 
-### 🏭 Industrial Asset Analysis
+### 🏭 Industrial Asset Maintenance Analytics
 
 Built a business-focused analytics project to monitor industrial asset performance, identify trends, and support data-driven maintenance decisions.
 
 **Tech:** `Excel` `SQL` `Power BI`
 
-<a href="https://github.com/seerasasikumar">
+<a href="https://github.com/seerasasikumar/Industrial-Asset-Maintenance-Analytics">
 <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
@@ -125,7 +125,7 @@ Performed exploratory data analysis on the Netflix dataset to discover content t
 
 **Tech:** `Python` `Pandas` `Matplotlib`
 
-<a href="https://github.com/seerasasikumar">
+<a href="https://github.com/seerasasikumar/Netflix-Data-Analysis">
 <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
@@ -134,9 +134,11 @@ Performed exploratory data analysis on the Netflix dataset to discover content t
 </table>
 
 <div align="center">
+
 <a href="https://seerasasikumar.github.io/SeeraSasikumar-DataAnalyst-Portfolio">
 <img src="https://img.shields.io/badge/View_Full_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+
 </div>
 
 <br/>
@@ -196,8 +198,11 @@ I'm actively looking for **Data Analyst** opportunities. Let's talk data, dashbo
 
 <br/>
 
+<!-- ===================== FOOTER ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=120&section=footer"/>
 
 <div align="center">
+
 <sub>⭐ From <b>Seera Sasikumar</b> — Thanks for visiting my profile! Feel free to explore, connect, and reach out.</sub>
+
 </div>
