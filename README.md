@@ -79,7 +79,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=seerasasikumar&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
-
 <!-- Contribution Snake -->
 <img src="https://raw.githubusercontent.com/seerasasikumar/seerasasikumar/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
